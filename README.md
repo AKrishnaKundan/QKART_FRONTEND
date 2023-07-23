@@ -3,6 +3,8 @@
 
 QKart is an E-commerce application offering a variety of products for customers to choose from. 
 
+**Live Link**: https://krishnakundan-qkart-frontend.netlify.app
+
 During the course of this project,
 
 • Implemented the core logic for authentication, shopping cart and checkout.
@@ -49,7 +51,5 @@ During the course of this project,
 • Deployed the QKart React app to Netlify.
 
 • Configured Netlify to support visiting any sub pages directly as React is a single page application.
-
-**Frontend**: https://krishnakundan-qkart-frontend.netlify.app
 
 
