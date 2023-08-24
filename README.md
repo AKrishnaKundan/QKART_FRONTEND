@@ -1,8 +1,11 @@
 
 # QKart Frontend
 
-QKart is an E-commerce application offering a variety of products for customers to choose from. 
-
+What I did?
+Developed frontend for a flipkart-like website 
+1. Understood frontend development using React.js
+2. Built a complete E-commerce application
+   
 **Live Link**: https://krishnakundan-qkart-frontend.netlify.app
 
 During the course of this project,
