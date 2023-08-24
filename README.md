@@ -2,9 +2,9 @@
 # QKart Frontend
 
 What I did?
-Developed frontend for a flipkart-like website 
+ 
 1. Understood frontend development using React.js
-2. Built a complete E-commerce application
+2. Developed frontend for an E-commerce application.
    
 **Live Link**: https://krishnakundan-qkart-frontend.netlify.app
 
